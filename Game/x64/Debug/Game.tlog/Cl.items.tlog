@@ -1,3 +1,4 @@
-C:\Development\Game\Game\Textures\Game.cpp;C:\Development\Game\Game\Textures\x64\Debug\Game.obj
-C:\Development\Game\Game\Textures\main.cpp;C:\Development\Game\Game\Textures\x64\Debug\main.obj
-C:\Development\Game\Game\Textures\TextureManager.cpp;C:\Development\Game\Game\Textures\x64\Debug\TextureManager.obj
+C:\Development\Mario-GUI-Game\Game\Game.cpp;C:\Development\Mario-GUI-Game\Game\x64\Debug\Game.obj
+C:\Development\Mario-GUI-Game\Game\GameObject.cpp;C:\Development\Mario-GUI-Game\Game\x64\Debug\GameObject.obj
+C:\Development\Mario-GUI-Game\Game\main.cpp;C:\Development\Mario-GUI-Game\Game\x64\Debug\main.obj
+C:\Development\Mario-GUI-Game\Game\TextureManager.cpp;C:\Development\Mario-GUI-Game\Game\x64\Debug\TextureManager.obj

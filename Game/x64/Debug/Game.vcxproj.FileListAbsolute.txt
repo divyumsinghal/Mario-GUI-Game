@@ -1,2 +1,3 @@
 C:\Development\Game\Game\Game\x64\Debug\Game.exe
 C:\Development\Game\Game\Textures\x64\Debug\Game.exe
+C:\Development\Mario-GUI-Game\Game\x64\Debug\Game.exe
