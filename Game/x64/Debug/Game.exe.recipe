@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Development\Game\Game\Textures\x64\Debug\Game.exe</FullPath>
+      <FullPath>C:\Development\Mario-GUI-Game\Game\x64\Debug\Game.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
