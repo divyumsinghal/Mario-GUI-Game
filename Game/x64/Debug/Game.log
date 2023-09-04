@@ -1,4 +1,6 @@
 ﻿  Game.cpp
+  GameObject.cpp
   main.cpp
+  TextureManager.cpp
   Generating Code...
   Game.vcxproj -> C:\Development\Mario-GUI-Game\Game\x64\Debug\Game.exe
